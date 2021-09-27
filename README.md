@@ -6,7 +6,7 @@
 1) Так как я занимаюсь страпингом первый раз, то перваый шаг - изучение материала по теме. В конечном счете начал делать задание, обращая за помощью https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/. 
 
 
-USAGE
+2) USAGE
 import requests 
 from bs4 import BeautifulSoup
 import lxml.html as lh
